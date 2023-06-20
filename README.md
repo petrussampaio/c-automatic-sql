@@ -1,1 +1,1 @@
-Execute o comando executável para ter acesso direto ao programa.
+Execute o executável para ter acesso direto ao programa.
