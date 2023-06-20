@@ -1,5 +1,5 @@
-Execute o executável para ter acesso direto ao programa.
-Usando linux, use os seguintes comandos:
+Usando linux, use execute os seguintes comandos:
+OBS: pro código funcionar é necessário ter instalado em sua máquina a biblioteca libpq-fe.h
 
 chmod +x ./dbeavercreate
 
